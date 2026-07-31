@@ -1,6 +1,6 @@
 # PortServDeliver
 
-Date for the paper: 
+Data for the paper: 
 
 Still Changing After All These Years”: A Dynamic Analysis of Portuguese Local Government Service Delivery Choices (1999-2025)
 
