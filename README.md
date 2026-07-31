@@ -6,6 +6,7 @@ Still Changing After All These Years”: A Dynamic Analysis of Portuguese Local 
 
 António Tavares * & Pedro Camões ±
 * Research Center in Political Science (CICP), School of Economics, Management and Political Science, University of Minho, Portugal
+
 ± Research Unit on Governance, Competitiveness and Public Policies (GOVCOPP), University of Aveiro, Portugal
 
 Abstract
